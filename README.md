@@ -1,16 +1,17 @@
-### Hi there 👋
+# SHASHANK
+  
+<a href="https://www.linkedin.com/in/shashank-a12a851a0/"><img src="https://i.ibb.co/YftdBM1/LI-In-Bug.png" alt="LI-In-Bug" border="0" width=30px></a>
 
-<!--
-**Shashankkrj/Shashankkrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am SHASHANK. My main interest lies in WEB Development and Data Science. I also have basic knowledge of Python,C,HTML and CSS. I am always curious to learn something new.
+- 🔭 I’m currently working on making Portfolio Website.
+- 🌱 I’m currently learning **DATA SCIENCE** with ***[100Days Challenge](https://100days.codes/)***.
+- 👯 I’m looking to collaborate on any **Web Development** project.
+- 🤔 I’m looking for help with Machine Learning deployment.
 
-Here are some ideas to get you started:
+- 💬 Ask me about HTML,CSS and PYTHON.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 ***How to reach me***: Contact me directly on this mail [shashankkrj@gmail.com](mailto:shashankkrj@gmail.com).
+
+- 😄 ***Pronouns:*** You can give one.
+
+- ⚡ ***Fun fact:*** I can work in noise😅. 
