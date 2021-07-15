@@ -14,4 +14,4 @@ I am SHASHANK. My main interest lies in WEB Development and Data Science. I also
 
 - 😄 ***Pronouns:*** You can give one.
 
-- ⚡ ***Fun fact:*** I can work in noise😅. 
+- ⚡ ***Fun fact:*** I can work in worst situation😅. 
