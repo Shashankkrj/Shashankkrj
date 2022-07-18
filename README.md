@@ -4,7 +4,7 @@
 
 I am SHASHANK. My main interest lies in WEB Development and Data Science. I also have basic knowledge of Python,C,HTML and CSS. I am always curious to learn something new.
 - 🔭 I’m currently working on ***BackEnd Development With Django***.
-- 🌱 I’m currently learning **DATA SCIENCE** with ***[100Days Challenge](https://100days.codes/)***.
+- 🌱 I’m currently learning **DATA SCIENCE** with ***[365 Data Science](https://365datascience.com/)***.
 - 👯 I’m looking to collaborate on any **Web Development** project.
 - 🤔 I’m looking for help with Machine Learning deployment.
 
